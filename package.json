@@ -112,7 +112,7 @@
     "stylint": "1.5.9",
     "stylus": "0.54.5",
     "url-search-params-polyfill": "3.0.0",
-    "webpack": "3.11.0"
+    "webpack": "4.6.0"
   },
   "jest": {
     "moduleFileExtensions": [
